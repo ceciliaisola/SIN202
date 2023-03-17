@@ -1,4 +1,4 @@
-# SIN202---Estrutura-de-Dados
+# SIN202 - Estrutura de Daados
 Aqui você pode acessar alguns códigos em Java que desenvolvi nas aulas de Estruturas de Dados
 
 ### Vetores
