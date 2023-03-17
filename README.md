@@ -40,8 +40,17 @@ Elaborar um programa, em linguagem Java, capaz de carregar, em um vetor do tipo 
 Elaborar um programa, em linguagem Java, que utilize apenas métodos recursivos, capaz de receber, via teclado, 10 elementos tipo int de um vetor e um outro elemento tipo int com o qual será feita uma busca linear no vetor digitado, ao longo dos seus índices ímpares somente, no sentido do menor índice para o maior índice. O programa deverá informar o valor do menor índice do vetor que contém o elemento igual ao valor digitado
 
 
-### Busca Linear Recursiva
+### Busca Binária
 #### Ex42.java 
 Elaborar um programa, em linguagem Java, capaz de receber 10 elementos diferentes do tipo char, em ordem crescente, armazená-los em um vetor do mesmo tipo e tamanho, no sentido do menor para o maior índice. O programa deverá pedir ao operador para que digite mais um caractere, o qual será localizado no determinado vetor. O programa apresentará em tela o resultado de uma busca binária por todos os índices, do menor para o maior, informando ao operador o número do índice do vetor no qual se encontra o caractere digitado, ou, se for o caso, que o caractere não se encontra no vetor (utilizar o tamanho máximo do vetor como terminador da busca no vetor). Utilizar um método iterativo de busca binária construído com passagem de parâmetros.
+
+### Busca Binária Recursiva
+#### Ex49.java 
+Elaborar um programa, em linguagem Java, capaz de receber, via teclado, 10 elementos tipo int de um vetor e um outro elemento tipo int com o qual será feita uma busca binária recursiva no vetor digitado, ao longo de todos os seus índices e no sentido do menor para o maior índice. O programa deverá informar o valor do menor índice do vetor que contém o elemento igual ao valor digitado![image](https://user-
+
+
+
+
+
 
 
