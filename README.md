@@ -46,11 +46,4 @@ Elaborar um programa, em linguagem Java, capaz de receber 10 elementos diferente
 
 ### Busca Binária Recursiva
 #### Ex49.java 
-Elaborar um programa, em linguagem Java, capaz de receber, via teclado, 10 elementos tipo int de um vetor e um outro elemento tipo int com o qual será feita uma busca binária recursiva no vetor digitado, ao longo de todos os seus índices e no sentido do menor para o maior índice. O programa deverá informar o valor do menor índice do vetor que contém o elemento igual ao valor digitado![image](https://user-
-
-
-
-
-
-
-
+Elaborar um programa, em linguagem Java, capaz de receber, via teclado, 10 elementos tipo int de um vetor e um outro elemento tipo int com o qual será feita uma busca binária recursiva no vetor digitado, ao longo de todos os seus índices e no sentido do menor para o maior índice. O programa deverá informar o valor do menor índice do vetor que contém o elemento igual ao valor digitado
